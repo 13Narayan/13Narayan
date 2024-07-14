@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-narayan-garg-8b8122316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya narayan garg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@adityanarayangarg2670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@endgame1357" height="30" width="40" /></a>
- <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Email.svg" alt="email" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
